@@ -1,0 +1,28 @@
+(ExpressProject ""
+  (ProjectType "UNKNOWN")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\a3640.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "Simulation Resources"
+    (Folder "In Design")
+    (Folder "Compiled")
+    (Folder "Timed"))
+  (GlobalState
+    (Physical 0)
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\a3640.dsn")
+      (Path "Design Resources" ".\a3640.dsn" "A3640")
+      (Select "Design Resources" ".\a3640.dsn" "A3640" "Buffers"))
+    (HierarchyView)
+    (Document
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 566"))
+      (Tab 0))))
